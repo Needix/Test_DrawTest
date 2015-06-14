@@ -10,7 +10,7 @@ using System.Diagnostics;
 
 namespace DrawTest1.GUI {
     public partial class Panel : System.Windows.Forms.Panel {
-        //Const
+        //Constants
         private int m_colorChangeSpeed = 10;
         public int ColorChangeSpeed {
             get { return m_colorChangeSpeed; }
